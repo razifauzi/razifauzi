@@ -5,6 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @razifauzi
 - 👀 I’m interested in programming and network security
-- 🌱 I’m currently learning C# language
+- 🌱 My prefered language are C# and Java
 - 📫 How to reach me from linkedIn https://www.linkedin.com/in/razi-fauzi-a2635020a/
 
